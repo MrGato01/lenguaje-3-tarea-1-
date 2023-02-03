@@ -68,26 +68,26 @@
             // 
             this.EnterotextBox.Location = new System.Drawing.Point(246, 66);
             this.EnterotextBox.Name = "EnterotextBox";
-            this.EnterotextBox.Size = new System.Drawing.Size(122, 20);
+            this.EnterotextBox.Size = new System.Drawing.Size(159, 20);
             this.EnterotextBox.TabIndex = 3;
             // 
             // ParImpartextBox
             // 
             this.ParImpartextBox.Location = new System.Drawing.Point(246, 186);
             this.ParImpartextBox.Name = "ParImpartextBox";
-            this.ParImpartextBox.Size = new System.Drawing.Size(132, 20);
+            this.ParImpartextBox.Size = new System.Drawing.Size(159, 20);
             this.ParImpartextBox.TabIndex = 4;
             // 
             // PositivoNegativotextBox
             // 
             this.PositivoNegativotextBox.Location = new System.Drawing.Point(246, 243);
             this.PositivoNegativotextBox.Name = "PositivoNegativotextBox";
-            this.PositivoNegativotextBox.Size = new System.Drawing.Size(132, 20);
+            this.PositivoNegativotextBox.Size = new System.Drawing.Size(159, 20);
             this.PositivoNegativotextBox.TabIndex = 5;
             // 
             // Iniciarbutton
             // 
-            this.Iniciarbutton.Location = new System.Drawing.Point(271, 106);
+            this.Iniciarbutton.Location = new System.Drawing.Point(291, 106);
             this.Iniciarbutton.Name = "Iniciarbutton";
             this.Iniciarbutton.Size = new System.Drawing.Size(75, 23);
             this.Iniciarbutton.TabIndex = 6;

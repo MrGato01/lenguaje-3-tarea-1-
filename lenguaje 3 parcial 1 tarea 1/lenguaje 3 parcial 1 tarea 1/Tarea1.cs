@@ -16,46 +16,49 @@ namespace lenguaje_3_parcial_1_tarea_1
         {
             InitializeComponent();
         }
-        decimal entero = 0;
+
+        String tipo = "";
+        int resultado = 0;
 
         private void Iniciarbutton_Click(object sender, EventArgs e)
         {
-            entero = Convert.ToDecimal(EnterotextBox.Text);
+            int entero = Convert.ToInt32(EnterotextBox.Text);
 
-            ParImpar();
-            PositivoNegativo();
-
-        }
-
-        public void ParImpar()
-        {
-            decimal resultado = 0;
-            resultado = entero % 2;
+            ParImpar(entero);
+            PositivoNegativo(entero);
 
             if (resultado == 0)
             {
-                ParImpartextBox.Text = ("El numero: " + entero + " Es par");
-            }
-            else 
+                ParImpartextBox.Text = ("El numero: " + entero + ", es par");
+            } else
             {
-                ParImpartextBox.Text = ("El numero: " + entero + " Es impar");
+                ParImpartextBox.Text = ("El numero: " + entero + ", es impar");
             }
 
+            PositivoNegativotextBox.Text = ("El numero: " + entero + ", es " + tipo);  
         }
 
-        public void PositivoNegativo()
+        public decimal ParImpar(int entero)
         {
+   
+            resultado = entero % 2;
+
+            return resultado;
+        }
+
+        public String PositivoNegativo(int entero)
+        {
+
             if (entero > 0)
             {
-                PositivoNegativotextBox.Text = ("El numero: " + entero + " Es positivo");
+                tipo = "positivo";
             }
-             else
+            else
             {
-
-                PositivoNegativotextBox.Text = ("El numero: " + entero + " Es Negativo");
+                tipo = "negativo";
             }
-
-        }
+            return tipo;
+        } 
 
 
     }
