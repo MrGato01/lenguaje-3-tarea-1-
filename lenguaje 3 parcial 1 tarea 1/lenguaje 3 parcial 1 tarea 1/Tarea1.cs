@@ -34,11 +34,11 @@ namespace lenguaje_3_parcial_1_tarea_1
 
             if (resultado == 0)
             {
-                ParImpartextBox.Text = ("El numero " + entero + " Es par");
+                ParImpartextBox.Text = ("El numero: " + entero + " Es par");
             }
             else 
             {
-                ParImpartextBox.Text = ("El numero " + entero + " Es impar");
+                ParImpartextBox.Text = ("El numero: " + entero + " Es impar");
             }
 
         }
