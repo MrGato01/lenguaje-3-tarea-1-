@@ -1,0 +1,11 @@
+C:\Users\MrGato\Documents\Lenguaje 3 proyectos\lenguaje-3-tarea-1-\lenguaje 3 parcial 1 tarea 1\lenguaje 3 parcial 1 tarea 1\bin\Debug\lenguaje 3 parcial 1 tarea 1.exe.config
+C:\Users\MrGato\Documents\Lenguaje 3 proyectos\lenguaje-3-tarea-1-\lenguaje 3 parcial 1 tarea 1\lenguaje 3 parcial 1 tarea 1\bin\Debug\lenguaje 3 parcial 1 tarea 1.exe
+C:\Users\MrGato\Documents\Lenguaje 3 proyectos\lenguaje-3-tarea-1-\lenguaje 3 parcial 1 tarea 1\lenguaje 3 parcial 1 tarea 1\bin\Debug\lenguaje 3 parcial 1 tarea 1.pdb
+C:\Users\MrGato\Documents\Lenguaje 3 proyectos\lenguaje-3-tarea-1-\lenguaje 3 parcial 1 tarea 1\lenguaje 3 parcial 1 tarea 1\obj\Debug\lenguaje 3 parcial 1 tarea 1.csproj.AssemblyReference.cache
+C:\Users\MrGato\Documents\Lenguaje 3 proyectos\lenguaje-3-tarea-1-\lenguaje 3 parcial 1 tarea 1\lenguaje 3 parcial 1 tarea 1\obj\Debug\lenguaje 3 parcial 1 tarea 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\MrGato\Documents\Lenguaje 3 proyectos\lenguaje-3-tarea-1-\lenguaje 3 parcial 1 tarea 1\lenguaje 3 parcial 1 tarea 1\obj\Debug\lenguaje_3_parcial_1_tarea_1.Properties.Resources.resources
+C:\Users\MrGato\Documents\Lenguaje 3 proyectos\lenguaje-3-tarea-1-\lenguaje 3 parcial 1 tarea 1\lenguaje 3 parcial 1 tarea 1\obj\Debug\lenguaje_3_parcial_1_tarea_1.Form1.resources
+C:\Users\MrGato\Documents\Lenguaje 3 proyectos\lenguaje-3-tarea-1-\lenguaje 3 parcial 1 tarea 1\lenguaje 3 parcial 1 tarea 1\obj\Debug\lenguaje 3 parcial 1 tarea 1.csproj.GenerateResource.cache
+C:\Users\MrGato\Documents\Lenguaje 3 proyectos\lenguaje-3-tarea-1-\lenguaje 3 parcial 1 tarea 1\lenguaje 3 parcial 1 tarea 1\obj\Debug\lenguaje 3 parcial 1 tarea 1.csproj.CoreCompileInputs.cache
+C:\Users\MrGato\Documents\Lenguaje 3 proyectos\lenguaje-3-tarea-1-\lenguaje 3 parcial 1 tarea 1\lenguaje 3 parcial 1 tarea 1\obj\Debug\lenguaje 3 parcial 1 tarea 1.exe
+C:\Users\MrGato\Documents\Lenguaje 3 proyectos\lenguaje-3-tarea-1-\lenguaje 3 parcial 1 tarea 1\lenguaje 3 parcial 1 tarea 1\obj\Debug\lenguaje 3 parcial 1 tarea 1.pdb
